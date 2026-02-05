@@ -25,9 +25,10 @@ Baseline ATE: 4.55
 DR ATE: 3.38
 Baseline Bias: 1.23
 DR Bias: 0.07
+CATE (age < 30): 6.03
+CATE (age >= 30): 2.09
 
 ## Author
 Ananthalakshmi Ponnaiah
 MCA Graduate
-CATE (age < 30): 6.03
-CATE (age >= 30): 2.09
+
