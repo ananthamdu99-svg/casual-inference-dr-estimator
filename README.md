@@ -17,7 +17,8 @@ Conditional Average Treatment Effect (CATE) using a Doubly Robust (DR) estimator
 
 ## How to Run
 ```bash
-python dr_estimator.py, add:
+python dr_estimator.py
+add:
 ## Output
 TRUE ATE: 3.32
 Baseline ATE: 4.55
