@@ -18,6 +18,9 @@ Conditional Average Treatment Effect (CATE) using a Doubly Robust (DR) estimator
 ## How to Run
 ```bash
 python dr_estimator.py
+add:## How to Run
+```bash
+python dr_estimator.py
 Sample Output
 TRUE ATE: 3.32
 Baseline ATE: 4.55
@@ -27,7 +30,7 @@ DR Bias: 0.07
 CATE (age < 30): 6.03
 CATE (age ≥ 30): 2.09
 
-## Author
+Author
 Ananthalakshmi Ponnaiah
 MCA Graduate
 
